@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there 👋<br><br>Nice meeting you, I'm Vishek!<br><br>🔭 I’m currently building real-world iOS applications using SwiftUI, including subscription management and portfolio generation products<br>👯 I’m open to collaborating on iOS products, AI-driven tools, and startup-oriented app ideas<br>🤝 Looking for guidance in system design, backend APIs, and production-level app development<br>🌱 Currently learning SwiftUI, clean architecture, and AI integration for mobile products<br>💬 Ask me about SwiftUI, app product strategy, and turning ideas into usable products<br>⚡ Fun fact: If I am not coding then I am probably playing Chess!
 
 
