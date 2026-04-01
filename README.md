@@ -10,6 +10,8 @@ Hi there 👋<br><br>Nice meeting you, I'm Vishek!<br><br>🔭 I’m currently b
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishuzz&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishuzz&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vishuzz&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
