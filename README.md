@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br><br>Nice meeting you, I'm Vishek!<br><br><br>🔭 I’m currently building backend systems and scalable APIs using Go (Golang)<br><br>👯 I’m open to collaborating on backend systems, distributed applications, and startup-oriented products<br><br>🤝 Looking for guidance in system design, distributed systems, cloud infrastructure, and production-level backend development<br><br>🌱 Currently learning Go, microservices, system design, databases, and cloud-native technologies<br><br>💬 Ask me about Go, backend development, APIs, system design, and building scalable services<br><br>⚡ Fun fact: If I am not coding then I am probably playing Chess!
+Hi there 👋<br>Nice meeting you, I'm Vishek!<br>🔭 I’m currently building backend systems and scalable APIs using Go (Golang)<br><br>👯 I’m open to collaborating on backend systems, distributed applications, and startup-oriented products<br><br>🤝 Looking for guidance in system design, distributed systems, cloud infrastructure, and production-level backend development<br><br>🌱 Currently learning Go, microservices, system design, databases, and cloud-native technologies<br><br>💬 Ask me about Go, backend development, APIs, system design, and building scalable services<br><br>⚡ Fun fact: If I am not coding then I am probably playing Chess!
 
 
 ## 🌐 Socials:
