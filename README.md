@@ -1,5 +1,12 @@
 # About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Vishek!<br><br>🔭 I’m currently building real-world iOS applications using SwiftUI, with AI integration<br>👯 I’m open to collaborating on iOS products, AI-driven tools, and startup-oriented app ideas<br>🤝 Looking for guidance in system design, backend APIs, and production-level app development<br>🌱 Currently learning SwiftUI, clean architecture, and AI integration for mobile products<br>💬 Ask me about SwiftUI, app product strategy, and turning ideas into usable products<br>⚡ Fun fact: If I am not coding then I am probably playing Chess!
+Hi there 👋<br><br>
+Nice meeting you, I'm Vishek!<br><br>
+🔭 I’m currently building backend systems and scalable APIs using Go (Golang)<br>
+👯 I’m open to collaborating on backend systems, distributed applications, and startup-oriented products<br>
+🤝 Looking for guidance in system design, distributed systems, cloud infrastructure, and production-level backend development<br>
+🌱 Currently learning Go, microservices, system design, databases, and cloud-native technologies<br>
+💬 Ask me about Go, backend development, APIs, system design, and building scalable services<br>
+⚡ Fun fact: If I am not coding then I am probably playing Chess!
 
 
 ## 🌐 Socials:
